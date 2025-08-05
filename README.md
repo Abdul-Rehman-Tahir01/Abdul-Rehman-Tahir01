@@ -1,18 +1,32 @@
-![Header](https://github.com/Abdul-Rehman-Tahir01/Abdul-Rehman-Tahir01/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Abdul Rehman Tahir</h1>
-<h3 align="center">Software Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+## 👋 Hello! I'm Abdul Rehman Tahir
+3rd Year Software Engineering Bachelor student from NUST, Pakistan. Currently doing research in Deep Learning in Unsupervised Domain Adaptation on Crop Mapping (End-season and Early-season).
+
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Python-FFD700?style=flat&logo=python&logoColor=black)
+![](https://img.shields.io/badge/Jupyter_Notebook-000000?style=flat&logo=jupyter&logoColor=orange)
+![](https://img.shields.io/badge/Tensorflow-4285F4?style=flat&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=black)
+![](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
-- 🌱 I’m currently learning **ML/DL, DSA**
+## 📊 Statistics
+[![Abdul Rehman's github stats](https://github-readme-stats.vercel.app/api?username=Abdul-Rehman-Tahir01&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📫 How to reach me **abdulrehmantahir12367@gmail.com**
+## Activity On GitHub
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abdul-rehman-tahir-1aa621258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-rehman-tahir-1aa621258/" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~017cc0b8d3cd0fc6bc" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="https://www.upwork.com/freelancers/~017cc0b8d3cd0fc6bc" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Abdul-Rehman-Tahir01">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rehman-Tahir01&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+- 🔭 I’m currently working in the research of Domain Adaptation in Crop Mapping (End-season and Early-season)
+- 🌱 I’m currently learning Bayesian Neural Networks to use the model's uncertainty for Active Learning Pipeline. 
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/abdul-rehman-tahir-1aa621258/). 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am an average Table Tennis 🏓 player.
