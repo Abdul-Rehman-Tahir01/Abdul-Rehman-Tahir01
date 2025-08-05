@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/Abdul-Rehman-Tahir01">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rehman-Tahir01&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=Abdul-Rehman-Tahir01&theme=transparent&mode=weekly"/>
 </a> 
 </p>
 
