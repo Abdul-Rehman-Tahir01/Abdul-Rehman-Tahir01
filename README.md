@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Abdul Rehman Tahir
-3rd Year Software Engineering Bachelor student from NUST, Pakistan. Currently doing research in Deep Learning in Unsupervised Domain Adaptation on Crop Mapping (End-season and Early-season).
+Final-Year Software Engineering Bachelor student from NUST, Pakistan. Currently doing research in Deep Learning in Unsupervised Domain Adaptation on Crop Mapping (End-season and Early-season).
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Python-FFD700?style=flat&logo=python&logoColor=black)
